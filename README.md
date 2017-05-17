@@ -6,3 +6,6 @@
 
 ### May 14, 2017
 - [Material Dashboard by Creative Tim | Free Material Bootstrap Admin](http://demos.creative-tim.com/material-dashboard/examples/dashboard.html#) 
+
+### May 17, 2017
+- [albert-gonzalez/easytimer.js: Easy to use Timer/Chronometer/Countdown library compatible with AMD and NodeJS](https://github.com/albert-gonzalez/easytimer.js) 
