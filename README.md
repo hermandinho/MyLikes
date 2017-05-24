@@ -9,3 +9,6 @@
 
 ### May 17, 2017
 - [albert-gonzalez/easytimer.js: Easy to use Timer/Chronometer/Countdown library compatible with AMD and NodeJS](https://github.com/albert-gonzalez/easytimer.js) 
+
+### May 24, 2017
+- [Vue-Particles - Vue.js and particles.js component](http://vue-particles.netlify.com/) 
