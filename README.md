@@ -15,3 +15,4 @@
 
 ### May 25, 2017
 - [Botpress - Developer](https://botpress.io/) 
+- [Releases · hainproject/hain](https://github.com/hainproject/hain/releases) 
