@@ -19,3 +19,4 @@
 
 ### May 26, 2017
 - [Blur Admin](http://akveo.com/blur-admin/#/profile) 
+- [jeff-collins/ment.io: Mentions and Macros for Angular](https://github.com/jeff-collins/ment.io) 
