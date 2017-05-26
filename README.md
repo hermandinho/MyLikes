@@ -16,3 +16,6 @@
 ### May 25, 2017
 - [Botpress - Developer](https://botpress.io/) 
 - [Releases · hainproject/hain](https://github.com/hainproject/hain/releases) 
+
+### May 26, 2017
+- [Blur Admin](http://akveo.com/blur-admin/#/profile) 
