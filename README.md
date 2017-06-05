@@ -23,3 +23,4 @@
 
 ### June 5, 2017
 - [sergeyksv/tingodb: Embedded Node.js database upward compatible with MongoDB](https://github.com/sergeyksv/tingodb) 
+- [Material Admin](http://byrushan.com/projects/ma/1-6-1/jquery/dark/) 
