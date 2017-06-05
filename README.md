@@ -20,3 +20,6 @@
 ### May 26, 2017
 - [Blur Admin](http://akveo.com/blur-admin/#/profile) 
 - [jeff-collins/ment.io: Mentions and Macros for Angular](https://github.com/jeff-collins/ment.io) 
+
+### June 5, 2017
+- [sergeyksv/tingodb: Embedded Node.js database upward compatible with MongoDB](https://github.com/sergeyksv/tingodb) 
