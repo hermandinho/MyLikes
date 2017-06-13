@@ -29,3 +29,6 @@
 This is my online MongoDB
 - [mLab: Cloud-hosted MongoDB](https://mlab.com/user?username=hermanho237) 
 - [Vuelidate | A Vue.js model validation library](https://monterail.github.io/vuelidate/#sub-basic-form) 
+
+### June 13, 2017
+- [cristijora/vue-form-wizard: Vue.js 2 wizard](https://github.com/cristijora/vue-form-wizard) 
