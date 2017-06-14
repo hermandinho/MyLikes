@@ -38,3 +38,4 @@ This is my online MongoDB
 
 ### June 13, 2017
 - [cristijora/vue-form-wizard: Vue.js 2 wizard](https://github.com/cristijora/vue-form-wizard) 
+- [vue-form-wizard - A vue based tab/form wizard](https://cristijora.github.io/vue-form-wizard/#/?id=start-from-a-specific-index) 
