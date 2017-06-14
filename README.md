@@ -1,5 +1,11 @@
 # MyLikes
 
+### June 14, 2017
+## My School Mangement APP resources
+- [Component | Element](http://element.eleme.io/#/en-US/component/input) 
+- [Material Admin](http://byrushan.com/projects/ma/1-6-1/jquery/dark/data-tables.html) 
+- [Themify Icons - 320+ Free Icons For Web Design & Apps](https://themify.me/themify-icons) 
+
 ### May 10, 2017
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
@@ -32,8 +38,3 @@ This is my online MongoDB
 
 ### June 13, 2017
 - [cristijora/vue-form-wizard: Vue.js 2 wizard](https://github.com/cristijora/vue-form-wizard) 
-
-### June 14, 2017
-- [Component | Element](http://element.eleme.io/#/en-US/component/input) 
-- [Material Admin](http://byrushan.com/projects/ma/1-6-1/jquery/dark/data-tables.html) 
-- [Themify Icons - 320+ Free Icons For Web Design & Apps](https://themify.me/themify-icons) 
