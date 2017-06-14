@@ -5,6 +5,7 @@
 - [Component | Element](http://element.eleme.io/#/en-US/component/input) 
 - [Material Admin](http://byrushan.com/projects/ma/1-6-1/jquery/dark/data-tables.html) 
 - [Themify Icons - 320+ Free Icons For Web Design & Apps](https://themify.me/themify-icons) 
+- [cristijora/vue-form-wizard: Vue.js 2 wizard](https://github.com/cristijora/vue-form-wizard)
 
 ### May 10, 2017
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
@@ -36,6 +37,3 @@ This is my online MongoDB
 - [mLab: Cloud-hosted MongoDB](https://mlab.com/user?username=hermanho237) 
 - [Vuelidate | A Vue.js model validation library](https://monterail.github.io/vuelidate/#sub-basic-form) 
 
-### June 13, 2017
-- [cristijora/vue-form-wizard: Vue.js 2 wizard](https://github.com/cristijora/vue-form-wizard) 
-- [vue-form-wizard - A vue based tab/form wizard](https://cristijora.github.io/vue-form-wizard/#/?id=start-from-a-specific-index) 
