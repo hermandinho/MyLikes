@@ -47,3 +47,6 @@ This is my online MongoDB
 
 ### July 4, 2017
 - [kash/resources: These are resources that I use all the time.](https://github.com/kash/resources) 
+
+### July 5, 2017
+- [Step Form Wizard Preview - CodeCanyon](http://preview.codecanyon.net/item/step-form-wizard/full_screen_preview/8591111?_ga=2.228167197.1603621984.1499246208-770428130.1497529897) 
