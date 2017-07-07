@@ -50,3 +50,6 @@ This is my online MongoDB
 
 ### July 5, 2017
 - [Step Form Wizard Preview - CodeCanyon](http://preview.codecanyon.net/item/step-form-wizard/full_screen_preview/8591111?_ga=2.228167197.1603621984.1499246208-770428130.1497529897) 
+
+### July 7, 2017
+- [Chris Courses - Web Development Tutorials](http://chriscourses.com/) 
